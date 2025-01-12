@@ -1,0 +1,9 @@
+[
+  { "ageGroup": "Minors", "visitCount": 3 },
+  { "ageGroup": "early 20s", "visitCount": 176 },
+  { "ageGroup": "late 20s", "visitCount": 130 },
+  { "ageGroup": "30s", "visitCount": 92 },
+  { "ageGroup": "40s", "visitCount": 19 },
+  { "ageGroup": "over50s", "visitCount": 18 }
+
+]
